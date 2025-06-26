@@ -1,0 +1,28 @@
+
+{
+  "name": "InnovateHub",
+  "short_name": "InnovateHub",
+  "description": "A collaborative platform for sharing, refining, and discovering innovative ideas and forming interest-based groups.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192.png?text=IH",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/384.png?text=IH",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512.png?text=IH",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
