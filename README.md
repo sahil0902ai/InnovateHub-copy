@@ -1,0 +1,2 @@
+# InnovateHub-copy
+A collaborative platform for sharing, refining, and discovering innovative ideas and forming interest-based groups.
